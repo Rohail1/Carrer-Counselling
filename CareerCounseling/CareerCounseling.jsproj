@@ -49,6 +49,7 @@
       <SubType>Designer</SubType>
     </AppxManifest>
     <Content Include="css\phone.css" />
+    <Content Include="images\And.jpg" />
     <Content Include="images\media.jpg" />
     <Content Include="images\science.png" />
     <Content Include="images\Square150x150Logo.scale-240.png" />
@@ -61,6 +62,8 @@
     <Content Include="js\data.js" />
     <Content Include="js\default.js" />
     <Content Include="js\navigator.js" />
+    <Content Include="pages\hub\And.html" />
+    <Content Include="pages\hub\And.js" />
     <Content Include="pages\hub\hubPhone.css" />
     <Content Include="pages\hub\hub.html" />
     <Content Include="pages\hub\hub.js" />
