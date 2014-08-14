@@ -25,7 +25,7 @@
 	"head" : "Science",
 	"Question1": "Why Bachelor of Science?",
     "Answer1": " Bachelor of Science graduates are equipped with the problem-solving, quantitative and collaborative skills prized by employers. The Bachelor of Science is also an ideal pathway to graduate professional entry programs in health sciences, engineering, and information technology (IT), and the shortest pathway to the Doctor of Veterinary Medicine.Following are some more reasons",
-	"Point1" : "Professional Carrer",
+	"Point1" : "Professional Career",
 	"Answer2" : "Science graduates can find rewarding careers in fields as diverse as the scientific industries, government, education, science communication, teaching, sales, marketing and the finance sector.",
 	"Point2" : "Scientific Oppertunity",
 	"Answer3" : " the Bachelor of Science offers the full range of science disciplines, from the fundamental and biological sciences to engineering systems and IT.",
@@ -38,6 +38,21 @@
 	"Sub4" : "Earth Sciences",
 	"Sub5" : "Chemical Sciences",
 	"Sub6" : "Life Sciences",
-	"Sub7" : "Statistics and Mathematics"
+	"Sub7" : "Statistics and Mathematics",
 
+	"Media_head" : "Media Studies",
+	"M_Question": "Why Bachelors in Media?",
+    "M_Answer1": "In the modern world of business, it is useless to be a creative, original thinker unless you can also sell what you create. When it is about creativity, a surge of novel ideas and concepts are being remarkably updated with the current happenings, Media Sciences might prove to be one of the appropriate fields catering to your interests. It is all about the power of effectively articulating one’s thoughts in written, verbal or graphic genres.",
+	"M_Point1" : "Career Options",
+	"M_Answer2" : "There is a wide variety of options available to a Media Scientist as per the courses mentioned. A Media Scientist can work under either of the following broad domains, the choices being interchangeable.",
+	"M_Point2" : "Television Channels",
+	"M_Answer3" : "In the electronic media, it depends on the type of work that one opts for. In a news room setup, it ranges from news reporting, writing and editing to news production and news anchoring. In a much lighter setup, one could aspire for film/drama/program production, script writing or acting. It also incorporates a separate graphic designing and animation section.",
+	"M_Point3" : "Newspaper Organisations",
+	"M_Answer4" : "In a print media setup, one could again choose from being a news reporter, writer or a sub editor. Graphic designing also makes a part of print media",
+	"M_branch" : "Radio Broadcasting",
+	"M_sub1" : "It includes avenues from producing daily programmes and news to content writing and hosting programs",
+	"M_Sub2" : "Advertising Agencies",
+	"M_Sub3" : "The potentials of a graphic designer, an animator and a copywriter can be truly unleashed in ad agencies. A photographer can work in all the three realms vis-à-vis TV channels, newspaper organisations and for ad agencies.",
+	"M_Sub4" : "Public Relations Firms or Media Consultants",
+	"M_Sub5" : "A PR firm awaits you if you know the right words to influence people. It refers to a particular department of any organization which is in continuous contact with media organisations to help maintain a public image."
 }
