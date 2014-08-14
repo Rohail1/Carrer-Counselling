@@ -23,8 +23,21 @@
     "SectionSubtitle": "Section subtitle",
 
 	"head" : "Science",
-	"SectionTitle": "Section 1 Title",
-    "SectionSubtext": "Lorem ipsum dolor sit amet",
-    "SectionDescription": "Lorem ipsum dolor sit amet, consectetur ising elit, sed diam nonummy nibh uismod tincidunt ut laoreet suscipit lobortis nisl ut wisi quipexerci quis consequat minim veniam, quis nostrud. exerci tation ullam corper."
+	"Question1": "Why Bachelor of Science?",
+    "Answer1": " Bachelor of Science graduates are equipped with the problem-solving, quantitative and collaborative skills prized by employers. The Bachelor of Science is also an ideal pathway to graduate professional entry programs in health sciences, engineering, and information technology (IT), and the shortest pathway to the Doctor of Veterinary Medicine.Following are some more reasons",
+	"Point1" : "Professional Carrer",
+	"Answer2" : "Science graduates can find rewarding careers in fields as diverse as the scientific industries, government, education, science communication, teaching, sales, marketing and the finance sector.",
+	"Point2" : "Scientific Oppertunity",
+	"Answer3" : " the Bachelor of Science offers the full range of science disciplines, from the fundamental and biological sciences to engineering systems and IT.",
+	"Point3" : "Scope and Jobs",
+	"Answer4" : "Science is a global discipline. It has a global Science Community and well paid jobs are availible at any sector. ",
+	"branch" : "Following are Some Major Branches of Science",
+	"sub1" : "Computer Sciences",
+	"Sub2" : "Food and Sciences",
+	"Sub3" : "Environmental Sciences",
+	"Sub4" : "Earth Sciences",
+	"Sub5" : "Chemical Sciences",
+	"Sub6" : "Life Sciences",
+	"Sub7" : "Statistics and Mathematics"
 
 }

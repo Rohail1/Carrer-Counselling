@@ -69,8 +69,8 @@
 		}
 
 		.hubpage .hub .section1 img {
-			width: 260px;
-			height: 260px;
+			width: 330px;
+			height: 200px;
 		}
 
 	.hubpage .hub .section2 {
@@ -183,11 +183,14 @@
 .label-extralarge {
 	font-size: 28pt;
 	line-height: 30pt;
+    color : deepskyblue;
 }
 
 .label-medium {
 	font-size: 15pt;
 	line-height: 17.5pt;
+    color : lightseagreen;
+    padding-left : 10px;
 }
 
 .label-mediummid {
