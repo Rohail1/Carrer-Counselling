@@ -62,6 +62,8 @@
     <Content Include="pages\hub\hubPhone.css" />
     <Content Include="pages\hub\hub.html" />
     <Content Include="pages\hub\hub.js" />
+    <Content Include="pages\hub\science.html" />
+    <Content Include="pages\hub\science.js" />
     <Content Include="pages\hub\section1Page.html" />
     <Content Include="pages\hub\section1Page.js" />
     <Content Include="pages\hub\section2Page.html" />
