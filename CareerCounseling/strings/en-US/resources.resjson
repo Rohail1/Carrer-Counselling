@@ -20,5 +20,11 @@
     "Section4Description": "Lorem ipsum dolor sit amet, consectetur ising elit, sed diam nonummy nibh uismod tincidunt ut laoreet suscipit lobortis nisl ut wisi quipexerci quis consequat minim veniam, quis nostrud.",
 
     "DescriptionText": "Lorem ipsum dolor sit amet:",
-    "SectionSubtitle": "Section subtitle"
+    "SectionSubtitle": "Section subtitle",
+
+	"head" : "Science",
+	"SectionTitle": "Section 1 Title",
+    "SectionSubtext": "Lorem ipsum dolor sit amet",
+    "SectionDescription": "Lorem ipsum dolor sit amet, consectetur ising elit, sed diam nonummy nibh uismod tincidunt ut laoreet suscipit lobortis nisl ut wisi quipexerci quis consequat minim veniam, quis nostrud. exerci tation ullam corper."
+
 }
