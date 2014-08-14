@@ -185,7 +185,11 @@
 	line-height: 30pt;
     color : deepskyblue;
 }
-
+.label-mediumlarge{
+    font-size: 20pt;
+    line-height:22pt;
+    color:deepskyblue;
+}
 .label-medium {
 	font-size: 15pt;
 	line-height: 17.5pt;
@@ -197,6 +201,7 @@
 	font-size: 15pt;
 	line-height: 17.5pt;
 }
+
 
 @media screen and (orientation: landscape) {
 	.win-pivot .win-pivot-surface {

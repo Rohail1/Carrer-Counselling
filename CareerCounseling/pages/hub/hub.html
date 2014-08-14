@@ -16,6 +16,10 @@
     <script src="/pages/hub/Media.js"></script>
     <script src="/pages/hub/And.js"></script>
     <script src="/pages/hub/PA.js"></script>
+    <script src="/pages/hub/medical.js"></script>
+    <script src="/pages/hub/architecture.js"></script>
+    <script src="/pages/hub/business.js"></script>
+       
 </head>
 <body>
     <div class="hubpage fragment">
@@ -31,6 +35,7 @@
 
             <div class="hub" data-win-control="WinJS.UI.Pivot">
 
+                <!--Intro to engineering-->
                 <div class="section1 section" data-win-control="WinJS.UI.PivotItem" data-win-options="{ isHeaderStatic: true }" data-win-res="{ winControl: {'header': 'MainHeading'} }">
                     <div class="sectioncontrol" id="Engineeringcontenthost" data-win-control="HubApps_SectionControls.Engineering"></div>
                 </div>
@@ -67,7 +72,23 @@
                     <div class="sectioncontrol" id="PAcontenthost" data-win-control="HubApps_SectionControls.PublicAdmin"></div>
                 </div>
 
+                <!--Intro to Medical sciences-->
+                <div class="section1 section" data-win-control="WinJS.UI.PivotItem" data-win-options="{ isHeaderStatic: true}" data-win-res="{ winControl: {'header': 'MedicalHeading'} }">
+                    <div class="sectioncontrol" id="Medicalcontenthost" data-win-control="HubApps_SectionControls.Medical"></div>
+                </div>
 
+                <!--Intro to Architecture-->
+
+                
+                <div class="section1 section" data-win-control="WinJS.UI.PivotItem" data-win-options="{ isHeaderStatic: true}" data-win-res="{ winControl: {'header': 'ArchitectureHeading'} }">
+                    <div class="sectioncontrol" id="Architecturecontenthost" data-win-control="HubApps_SectionControls.Architecture"></div>
+                </div>
+
+                <!--Intro to Business-->
+
+                <div class="section1 section" data-win-control="WinJS.UI.PivotItem" data-win-options="{ isHeaderStatic: true}" data-win-res="{ winControl: {'header': 'BusinessHeading'} }">
+                    <div class="sectioncontrol" id="Businesscontenthost" data-win-control="HubApps_SectionControls.Business"></div>
+                </div>
                 <div class="section3 section" data-win-control="WinJS.UI.PivotItem" data-win-res="{ winControl: {'header': 'Section3'} }">
                     <div class="section3contenthost sectioncontrol" id="section3contenthost" data-win-control="HubApps_SectionControls.Section3Control"
                          data-win-options="{

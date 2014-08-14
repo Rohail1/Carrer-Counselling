@@ -1,6 +1,8 @@
 ﻿// For details on localizing a Windows app, see: http://go.microsoft.com/fwlink/?LinkId=212836
 
 {
+	//Engineer Details
+
     "MainHeading": "Engineering",
 	"EngineeringQuestion1": "Why Choose Engineering ?",
 	"EngineeringAnswer1": " Engineering is about the design and production of useful products and services. Engineering know-how converts scientific knowledge into technology and then technology into successful innovation. Many seemingly simple aspects of our daily lives have been conceptualised, designed and developed by an engineer.",
@@ -82,7 +84,7 @@
 	"A_Point3" : "Critical Thinking and Analysis",
 	"A_Answer3" : "Undergraduate arts students are taught how to think objectively, and not take everything they are told to be factual. They learn to use carefully gathered evidence to ensure accurate conclusions are formed. This skill is also useful for seeing abstract problems from different angles and thus having a greater chance of solving them.",
 
-	//Public Administration
+	//Public Administration Details
 
 	"PA_Head" : "Public Administration",
 	"PA_Question" : "Why Public Administration",
@@ -96,5 +98,70 @@
 	"PA_Point4" : "Hold Important Government Positions",
 	"PA_Answer4" : "Some of the most important government officials pursued a career in the public administration field. Career paths such as being a Cabinet member for the President, working in the United Nations, and being a police commissioner are some choices for people with an BPA degree.",
 	"PA_Point5" : "Decent Starting Salary",
-	"PA_Answer5" : "The starting salary of an individual who has completed a BPA degree program will be a quite decent. After some years in the field, salaries can go all the way up to six figures depending upon the position and whether it’s a government or non-profit position."
+	"PA_Answer5" : "The starting salary of an individual who has completed a BPA degree program will be a quite decent. After some years in the field, salaries can go all the way up to six figures depending upon the position and whether it’s a government or non-profit position.",
+
+	//Medical Details
+
+	"MedicalHeading" : "Medical Sciences",
+	"MedicalQuestion1" : " What is Medical Science ?",
+	"MedicalAnswer1" : " Medical Science is a broad term that covers such areas as biochemistry, molecular biology, medicinal chemistry, microbiology, neuroscience, physiology, nutrition, pharmacology, toxicology, vision science and biomedical technology.",
+	"MedicalPoint1" : "All are vital to our ongoing efforts to develop and evaluate new treatments and strategies for health problems.",
+	"MedicalQuestion2" : " Why Bachelor of Medical Science ?",
+	"MedicalAnswer2" : " The Bachelor of Medical Science is an innovative and flexible course providing exciting options for students interested in a wide range of careers in the medical and health sciences.",
+	"MedicalQuestion3": " Professional Career ",
+	"MedicalAnswer3" : " Professional graduates can find career opportunities in diverse areas such as medical research carried out in universities and government and industry-funded organisations, the pharmaceutical industry, government regulatory industries, industry-based biomedical companies, diagnostic laboratories, health administration, health planning and policy.",
+	"MedicalScienceBranches" : "Some Major Branches of Medical Science ",
+	"MedicalSub1" : "Biochemistry",
+	"MedicalSub2" : "Molecular biology",
+	"MedicalSub3" : "Biotechnology",
+	"MedicalSub4" : "Microbiology",
+	"MedicalSub5" : "Pharmacology",
+	"MedicalSub6" : "Physiology",
+	"MedicalSub7" : "Cardiology",
+	"MedicalSub8" : "Dentistry",
+	"MedicalSub9" : "Genetics",
+	
+
+	//Architecture Details
+	"ArchitectureHeading" : "Architectural Studies",
+	"ArchitectureQuestion1" : "Why Bachelor of Architectural Studies ?",
+	"ArchitectureAnswer1" : "The Bachelor of Architectural Studies degree provides the foundation of skills, knowledge, judgment and practical experience required for subsequent professional studies in architecture. Though the Academic Plan is pre-professional, it is fully dedicated to imparting to students the culture and practice of design. Design is a synthetic activity; to do it well and serve the needs of the individual and society requires an extremely broad education. Students acquire an understanding of the workings of society and culture, of the principles of physics, of materials and techniques of construction, of the human interaction with the natural and built environment, of historical process, of critical thought and of the diverse forms of creative expression.",
+	"ArchitectureAnswer2" : "Courses in the Bachelor of Architectural Studies degree are arranged in four main thematic groups.",
+	"ArchitecturedataTerm1" : "Design",
+	"ArchitecturedataDefinition1" : " The practice of design and the understanding of its theories and methods.",
+	"ArchitecturedataTerm2" : "Culture",
+	"ArchitecturedataDefinition2" : "The understanding of cultural forces in the creative world.",
+	"ArchitecturedataTerm3" :		"Technology",
+	"ArchitecturedataDefinition3" : "The understanding of technological and practical aspects of design and construction.",
+	"ArchitecturedataTerm4" :		"Environment",
+	"ArchitecturedataDefinition4" : "The understanding of environmental issues in natural and human ecologies.",
+	
+	
+	//Business Administration
+	"BusinessHeading" : "Business Administration",
+	"BusinessQuestion1" : " Why study Business Administration?",
+	"BusinessAnswer1" : "Business Administration will prepare you for a career in business or entrance to graduate school. Students develop specialized skills and improve their capacity to analyze, communicate effectively with associates, think independently and thrive in work situations.",
+	"BusinessQuestion2" : "Business Administration Careers",
+	"BusinessAnswer2" : "Some of the most popular career includes",
+	"dataTerm1" : "Accountant",
+	"dataDefinition1" : "Industries include tax preparation, payroll accounting, bookkeeping services, financial accounting, accounting management, government accounting, and insurance accounting.",
+	"dataTerm2" : "Advertising Executive",
+	"dataDefinition2" : "Advertising executives and managers are needed to create, coordinate, and roll out advertising campaigns for every type of business that offers a product or service.",
+	"dataTerm3" :		"Business Manager",
+	"dataDefinition3" : "Business managers are employed by both small and large companies; opportunities are available at every level of management--from department supervisor to operations management.",
+	"dataTerm4" :		"Finance Officer",
+	"dataDefinition4" : "Finance officers can be employed by any business that has money coming in or going out. Positions vary from entry-level to management.",
+	"dataTerm5" :		"Human Resources Manager",
+	"dataDefinition5" : "Government employs the largest percentage of human resources managers. Positions are also available in company management, manufacturing, professional and technical services, health care fields, and social service agencies.",
+	"dataTerm6" : "Management Analyst",
+	"dataDefinition6" : "Most management analysts are self-employed. About 20 percent work for small or large consulting firms. Management analysts can also be found in government and the finance and insurance industries.",
+	"dataTerm7" : "Marketing Specialist",
+	"dataDefinition7" : "Every business industry employs marketing specialists. Career opportunities also exist with research firms, civic organizations, academic institutions, and government agencies.",
+	"dataTerm8" : "Office Administrator",
+	"dataDefinition8" : "Most office administrators work in educational services, healthcare, state and local government, and insurance. Positions also exist in professional services and within almost any office setting.",
+	"dataTerm9" : "Public Relations Specialist",
+	"dataDefinition9" : "Public relations specialists can be found in any business industry. Many career opportunities can also be found within government, healthcare, and religious and civic organizations."
+
+
+
 }
