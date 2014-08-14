@@ -1,10 +1,19 @@
 ﻿// For details on localizing a Windows app, see: http://go.microsoft.com/fwlink/?LinkId=212836
 
 {
-    "engs": "Engineering",
-	"Section1Title": "Section 1 Title",
-    "Section1Subtext": "Lorem ipsum dolor sit amet",
-    "Section1Description": "Lorem ipsum dolor sit amet, consectetur ising elit, sed diam nonummy nibh uismod tincidunt ut laoreet suscipit lobortis nisl ut wisi quipexerci quis consequat minim veniam, quis nostrud. exerci tation ullam corper.",
+    "MainHeading": "Engineering",
+	"EngineeringQuestion1": "Why Choose Engineering ?",
+	"EngineeringAnswer1": " Engineering is about the design and production of useful products and services. Engineering know-how converts scientific knowledge into technology and then technology into successful innovation. Many seemingly simple aspects of our daily lives have been conceptualised, designed and developed by an engineer.",
+	"SomeReason": " Here are just a few reasons why you should consider a career in engineering.",
+    "EngineerSub1": " Engineers have diverse careers",
+	"EngineerSub2": " Engineers are in demand",
+	"EngineerSub3": " Engineers get to do cool stuff",
+	"EngineerSub4": " Engineers work everywhere",
+	"EngineerSub5": " Engineers get to travel",
+	"EngineerSub6": " Engineers work on interesting projects",
+	"EngineerSub7": " Engineers have a good work/life balance",
+	"EngineerSub8": " Engineers can earn good money",
+	"EngineerSub9": " Engineers have a great lifestyle",
 
     "Section2": "Section 2",
     "Section2ItemTitle": "Item Title",
