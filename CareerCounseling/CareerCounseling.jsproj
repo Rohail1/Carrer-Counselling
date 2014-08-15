@@ -53,6 +53,7 @@
     <Content Include="images\business.jpg" />
     <Content Include="images\engineering.png" />
     <Content Include="images\And.jpg" />
+    <Content Include="images\LS.jpg" />
     <Content Include="images\media.jpg" />
     <Content Include="images\medical.jpg" />
     <Content Include="images\PA.jpg" />
@@ -78,7 +79,6 @@
     <Content Include="pages\hub\hub.js" />
     <Content Include="pages\hub\Media.html" />
     <Content Include="pages\hub\Media.js" />
-    <Content Include="pages\hub\medical.html" />
     <Content Include="pages\hub\medical.js" />
     <Content Include="pages\hub\PA.html" />
     <Content Include="pages\hub\PA.js" />
