@@ -160,8 +160,24 @@
 	"dataTerm8" : "Office Administrator",
 	"dataDefinition8" : "Most office administrators work in educational services, healthcare, state and local government, and insurance. Positions also exist in professional services and within almost any office setting.",
 	"dataTerm9" : "Public Relations Specialist",
-	"dataDefinition9" : "Public relations specialists can be found in any business industry. Many career opportunities can also be found within government, healthcare, and religious and civic organizations."
+	"dataDefinition9" : "Public relations specialists can be found in any business industry. Many career opportunities can also be found within government, healthcare, and religious and civic organizations.",
 
 
-
+	//Law Details
+	"LawHeading" : "Law Studies",
+	"LawQuestion1" : "Why Choose Law as a Career ?",
+	"LawAnswer1" : "A career in the legal profession can be intellectually challenging, personally fulfilling and financially rewarding.",
+	"LawAnswer2" : "Below are some reasons to choose a career in the legal profession.",
+	"LawdataTerm1" : " Diverse Legal Career Options",
+	"LawdataDefinition1" : "The complexities of our legal system have created hundreds of legal career options that serve a variety of core and non-core legal functions. From lawyers, judges and mediators to paralegals, secretaries and consultants, the legal professional’s role is expanding and evolving to keep pace with the ever-changing legal system.",
+	"LawdataTerm2" : " Growth and Opportunity",
+	"LawdataDefinition2" : "In the last several years, the legal profession has experienced staggering growth. A steady rise in profits and revenues, expanded headcounts and significant salary increases have provided plenty of job opportunities in a broad range of legal positions.",
+	"LawdataTerm3" : "Financial Rewards",
+	"LawdataDefinition3" : "The legal profession is one of the most lucrative industries in today’s job market. Double-digit growth in recent years has produced healthy revenues and rising salaries.",
+	"LawdataTerm4" : "Client Service",
+	"LawdataDefinition4" : "At the heart of the legal professional’s role is client service. Whether you are a lawyer representing a multinational corporate client, a paralegal assisting abused women obtain restraining orders or a law clerk researching a tax issue for a new business, the fundamental purpose of the legal professional is the help others resolve their legal problems.",
+	"LawdataTerm5" :	"Diverse Practice Areas",
+	"LawdataDefinition5" : "Increased segmentation and specialization in the legal profession has spawned a growing number of legal specialties and sub-specialties that cater to almost every legal interest. Legal professionals who seek a career in litigation can specialize in criminal law, employment law, family law, products liability or dozens of other practice areas. Legal professionals who prefer a career in corporate law can specialize in tax law, mergers and acquisitions, real estate, finance or another corporate practice area that satisfies their interests.",
+	"LawdataTerm6" : "Intellectual Challenge",
+	"LawdataDefinition6" : "Navigating an evolving legal system, advances in technology, vast bodies of case law and the demands of the legal profession creates a stimulating intellectual environment for the legal professional. Lawyers and non-lawyers alike must grapple with conceptually challenging issues, reason with logic and clarity, analyze case and statutory law, research complex legal issues and master oral and written communications."
 }

@@ -77,8 +77,11 @@
     <Content Include="pages\hub\hubPhone.css" />
     <Content Include="pages\hub\hub.html" />
     <Content Include="pages\hub\hub.js" />
+    <Content Include="pages\hub\law.html" />
+    <Content Include="pages\hub\law.js" />
     <Content Include="pages\hub\Media.html" />
     <Content Include="pages\hub\Media.js" />
+    <Content Include="pages\hub\medical.html" />
     <Content Include="pages\hub\medical.js" />
     <Content Include="pages\hub\PA.html" />
     <Content Include="pages\hub\PA.js" />
