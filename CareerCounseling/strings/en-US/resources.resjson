@@ -179,5 +179,21 @@
 	"LawdataTerm5" :	"Diverse Practice Areas",
 	"LawdataDefinition5" : "Increased segmentation and specialization in the legal profession has spawned a growing number of legal specialties and sub-specialties that cater to almost every legal interest. Legal professionals who seek a career in litigation can specialize in criminal law, employment law, family law, products liability or dozens of other practice areas. Legal professionals who prefer a career in corporate law can specialize in tax law, mergers and acquisitions, real estate, finance or another corporate practice area that satisfies their interests.",
 	"LawdataTerm6" : "Intellectual Challenge",
-	"LawdataDefinition6" : "Navigating an evolving legal system, advances in technology, vast bodies of case law and the demands of the legal profession creates a stimulating intellectual environment for the legal professional. Lawyers and non-lawyers alike must grapple with conceptually challenging issues, reason with logic and clarity, analyze case and statutory law, research complex legal issues and master oral and written communications."
+	"LawdataDefinition6" : "Navigating an evolving legal system, advances in technology, vast bodies of case law and the demands of the legal profession creates a stimulating intellectual environment for the legal professional. Lawyers and non-lawyers alike must grapple with conceptually challenging issues, reason with logic and clarity, analyze case and statutory law, research complex legal issues and master oral and written communications.",
+
+		// Quiz Question 1
+
+	"QA_Head" : "Question 1",
+	"QA_Question" : "Q1. Which is your most natural energy orientation?",
+	"QA_Explaination1" : "Every person has two faces. One is directed towards the OUTER world of activities, excitements, people, and things. The other is directed inward to the INNER world of thoughts, interests, ideas, and imagination. ",
+	"QA_Explaination2" : "While these are two different but complementary sides of our nature, most people have an innate preference towards energy from either the OUTER or the INNER world. Thus one of their faces, either the Extraverted (E) or Introverted (I), takes the lead in their personality development and plays a more dominant role in their behavior. ",
+	"QAL_Head" : "Extraverted Characteristics :",
+	"QAL_Point1" : "Act first, think/reflect later",
+	"QAL_Point2" : "Feel deprived when cutoff from interaction with the outside world",
+	"QAL_Point3" : "Usually open to and motivated by outside world of people and things",
+	"QAL_Point4" : "Enjoy wide variety and change in people relationships"
+
+
+
+
 }
